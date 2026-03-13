@@ -1,4 +1,3 @@
-
 const width = 700;
 const height = 400;
 const margin = {top:40,right:20,bottom:80,left:70};
